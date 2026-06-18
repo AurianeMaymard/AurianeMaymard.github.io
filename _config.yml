@@ -1,3 +1,7 @@
-theme: agency-jekyll-theme
 title: Auriane's website
 description: Welcome to my personal website!
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: raviriley/agency-jekyll-theme
